@@ -1,0 +1,1 @@
+This repository contains a MATLAB function with a common error: a missing case in a conditional statement. The `myFunction` does not explicitly handle the case when the input is exactly 10. This can lead to unexpected behavior or errors. The solution demonstrates how to add this case for complete and robust functionality.
